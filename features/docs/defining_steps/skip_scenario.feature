@@ -1,4 +1,4 @@
-Feature: Skip Scenario
+Feature: Skip Scenario XXXX
 
   @todo-windows
   Scenario: With a passing step
