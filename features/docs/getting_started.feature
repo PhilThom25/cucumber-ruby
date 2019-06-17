@@ -1,5 +1,4 @@
 Feature: Getting started
-#Story 7
   To get started, just open a command prompt in an empty directory and run 
   `cucumber`. You'll be prompted for what to do next.
 
