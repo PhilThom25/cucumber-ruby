@@ -1,6 +1,6 @@
 Feature: Post Configuration Hook [#423]
 
-  In order to extend Cucumber
+  In order to extend Cucumber def
   As a developer
   I want to manipulate the Cucumber configuration after it has been created
 
